@@ -3,10 +3,5 @@
 If You Don't Have SQLlite3 installed Do:
 ==> pip install sqllite3
 
-# In This Version You Will See
-
-1.Independent Students, Professors And Admin pannel.
-2.More Security and Bug Fix.
-
 
 Tell Me When You Found Any Problems.
