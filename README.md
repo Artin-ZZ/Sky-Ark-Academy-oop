@@ -1,4 +1,4 @@
-# Sky Ark Academy Version 2.0
+# Sky Ark Academy Version 1.0
 
 If You Don't Have SQLlite3 installed Do:
 ==> pip install sqllite3
