@@ -1,7 +1,9 @@
-# Sky Ark Academy Version 1.0
+# Sky Ark Academy
 
-If You Don't Have SQLlite3 installed Do:
-==> pip install sqllite3
+A Simple Object Oriented Univesity Application
 
+Without User Interface ( CLI )
 
-Tell Me When You Found Any Problems.
+# My Contact Info:
+Email: artinzafari@gmail.com
+Telegram Id: @artin_zz0
